@@ -1,5 +1,5 @@
 :root {
-    --color-primary: #87CEEB;
+    --color-primary: #7EC8E3;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #FF4DA6;   /* Rosado */
+    color: #FF4DA6;   
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -160,4 +160,5 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
 
